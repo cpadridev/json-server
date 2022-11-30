@@ -1,0 +1,35 @@
+{
+    "vehicles": [
+        {
+            "id": 1,
+            "price": 25,
+            "type": "tourism"
+        },
+        {
+            "id": 2,
+            "price": 10,
+            "type": "motorbike"
+        },
+        {
+            "id": 3,
+            "price": 5,
+            "type": "scooter"
+        }
+    ],
+    "rentals": [
+        {
+            "name": "admin",
+            "vehicle": "tourism",
+            "days": "7",
+            "price": "140",
+            "id": 1
+        },
+        {
+            "name": "Adrian Carmona",
+            "vehicle": "motorbike",
+            "days": "14",
+            "price": "140",
+            "id": 2
+        }
+    ]
+}
